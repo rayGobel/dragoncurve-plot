@@ -52,7 +52,6 @@ def prettyPlot(xData, yData, plotType='-k'):
     plt.show()
 
 if __name__ == '__main__':
-    import matplotlib.pyplot as plt
     import dragonfrac
     import numpy as np
     import argparse
