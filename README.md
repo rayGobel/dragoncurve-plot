@@ -15,3 +15,13 @@ So, I try to fiddle with python and use `matplotlib` and `numpy` to create a vis
 # Note
 Feel free to update/create/improve or include this in some package. I'd probably
 not yet able to make one.
+
+# Usage
+
+    python dragoncurv_plot.py [-h] num
+
+where num is number of iterations to be performed. Example:
+
+    python dragoncurv_plot.py 1
+    python dragoncurv_plot.py 5
+    python dragoncurv_plot.py 10
